@@ -5,5 +5,6 @@
 
 #### Hi ! I'm Hansaem Kim 🤓
 - 📚 I’m currently learning **Data analysis with Python, ML, DL, RPA, Django**
+- 📄 The projects I've done : **Link**
 - 🤔 I’m looking for help with **Managing data**
 - 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hansaemeee@gmail.com)](mailto:hansaemeee@gmail.com)
